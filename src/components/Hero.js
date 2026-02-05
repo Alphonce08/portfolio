@@ -4,14 +4,9 @@ const Hero = () => {
   return (
     <section className="hero">
       <div className="hero-content">
-        <h2>Professional Summary</h2>
+        <h2>Career Objective</h2>
         <p>
-          Highly skilled Software Engineer with over 8 years of experience in building, optimizing, 
-          and deploying scalable backend systems and API services. Proficient in developing RESTful APIs, 
-          microservices architecture, and integrating third-party services. Expertise in PHP (Laravel, 
-          CodeIgniter), Python (Django REST), Node.js, MySQL, and cloud infrastructure (AWS, GCP). 
-          A proven track record of leading engineering teams, improving system performance, and 
-          implementing DevOps practices.
+ A passionate Software Engineer with expertise in both Front-End and Back-End development, seeking a dynamic and challenging environment. Committed to leveraging my technical and interpersonal skills to positively impact organizational performance and deliver innovative software solutions.
         </p>
       </div>
     </section>

@@ -10,7 +10,7 @@ const Header = () => {
         <div className="profile-image-container">
           <img 
             src={profileImage} 
-            alt="Kipngeno Kering" 
+            alt="Alphonce Rotich" 
             className="profile-image"
           />
           <div className="image-overlay">
@@ -18,21 +18,21 @@ const Header = () => {
           </div>
         </div>
         <div className="header-info">
-          <h1>Kipngeno Kering</h1>
+          <h1>Alphonce Rotich</h1>
           <p>Software Engineer & Backend Specialist</p>
         </div>
         <div className="contact-info">
-          <a href="https://www.linkedin.com/in/kipngeno-kering-44925966/" className="contact-item" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/in/alphonce-rotich/" className="contact-item" target="_blank" rel="noopener noreferrer">
             <FaLinkedin className="contact-icon" />
             <span>LinkedIn</span>
           </a>
-          <a href="mailto:kipngenokering@gmail.com" className="contact-item">
+          <a href="mailto:alphoncerotich30@gmail.com" className="contact-item">
             <FaEnvelope className="contact-icon" />
-            <span>kipngenokering@gmail.com</span>
+            <span>alphoncerotich30@gmail.com</span>
           </a>
           <div className="contact-item">
             <FaPhone className="contact-icon" />
-            <span>+254 715 404 451</span>
+            <span>+254 708 477 938</span>
           </div>
         </div>
       </div>
