@@ -19,7 +19,7 @@ const Header = () => {
         </div>
         <div className="header-info">
           <h1>Alphonce Rotich</h1>
-          <p>Software Engineer & Backend Specialist</p>
+          <p>Software Engineer</p>
         </div>
         <div className="contact-info">
           <a href="https://www.linkedin.com/in/alphonce-rotich/" className="contact-item" target="_blank" rel="noopener noreferrer">

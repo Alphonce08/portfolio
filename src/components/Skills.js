@@ -4,15 +4,15 @@ const Skills = () => {
   const skillCategories = [
     {
       title: 'Backend Development',
-      skills: ['PHP (Vanilla, Laravel, CodeIgniter)', 'Python (Django REST)', 'Node.js']
+      skills: ['Python (Django REST)', 'Node.js']
     },
     {
       title: 'Frontend Development',
-      skills: ['HTML','CSS','Javascript','React JS', 'Vue.js']
+      skills: ['HTML','CSS', 'Python','Javascript','React JS']
     },
     {
       title: 'API Development & Integration',
-      skills: ['RESTful APIs', 'Payment Gateways', 'Accounting Software(Quickbooks,WaveApps)','WhatsApp Business API', 'SMS APIs']
+      skills: ['RESTful APIs', 'Payment Gateways']
     },
     {
       title: 'Database Management',
@@ -22,14 +22,8 @@ const Skills = () => {
       title: 'DevOps & Cloud',
       skills: ['Docker', 'Kubernetes', 'AWS', 'GCP', 'Digital Ocean']
     },
-    {
-      title: 'Version Control & CI/CD',
-      skills: ['Git', 'CI/CD Pipelines', 'Jenkins', 'Dockerfile']
-    },
-    {
-      title: 'Methodologies',
-      skills: ['Agile & Scrum', 'Microservices Architecture', 'Event-driven Design','Data-driven Development']
-    },
+    
+   
     {
       title: 'Testing',
       skills: ['Unit Testing', 'Functional Testing', 'Test-Driven Development (TDD)']

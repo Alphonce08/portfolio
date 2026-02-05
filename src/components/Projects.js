@@ -2,27 +2,8 @@ import React from 'react';
 
 const Projects = () => {
   const projects = [
-   
-    // {
-    //   name: 'Bluewave Insurance System',
-    //   description: 'Led development of insurance policy systems with complex backend architectures',
-    //   technologies: ['PHP', 'MySQL', 'Microservices', 'API Integration']
-    // },
-    // {
-    //   name: 'KMTC Admission Application & Placement System',
-    //   description: 'Fullstack development of admission and placement system',
-    //   technologies: ['Fullstack', 'Database Design', 'System Architecture']
-    // },
-    // {
-    //   name: 'TozzaPlus HRM System',
-    //   description: 'Designed and developed core payroll and attendance modules',
-    //   technologies: ['PHP/CodeIgniter', 'Payroll System', 'Leave Management']
-    // },
-    // {
-    //   name: 'UreadyAfrica - Mentorship System',
-    //   description: 'Development of mentorship platform',
-    //   technologies: ['Web Application', 'Mentorship Platform', 'User Management']
-    // }
+  
+  
     ];
     
     const personalProjects = [
@@ -37,25 +18,7 @@ const Projects = () => {
             description: 'An online platform used in marketing industry to sell cloth, electronic and jewellery',
             technologies: ['Python Django', 'REST APIs', 'PostgreSQL', 'Bootstrap',],
             link:'#'
-        // },
-        // {
-        //     name: 'Bulk SMS & WhatsApp Business API Integration Service',
-        //     description: 'A service to integrate WhatsApp Business API for sending notifications, alerts, and marketing messages to customers.',
-        //     technologies: ['Node.js', 'Express', 'MongoDB', 'WhatsApp Business API'],
-        //     link:'#'
-        // },
-        // {
-        //     name:'Event Ticketing Platform',
-        //     description:'A web application for event organizers to create and manage events, sell tickets online, and track attendance.',
-        //     technologies:['Laravel', 'React', 'Stripe API','Daraja API', 'PostgreSQL'],
-        //     link:'#'
-        // },
-
-        // {
-        //     name:'Procurement Tracking System',
-        //     description:'A system to manage and track procurement requests, approvals, and vendor management for organizations.',
-        //     technologies:['Laravel', 'RESTsul Api', 'MySQL', 'Bootstrap'],
-        //     link:'#'
+      
          }
     ];
 

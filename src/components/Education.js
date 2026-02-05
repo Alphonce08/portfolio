@@ -8,14 +8,14 @@ const Education = () => {
       period: 'Jan 2023 - Dec 2025',
       institution: 'eMobilis Technology Training Institude ',
       degree: 'Diploma in Information Technology',
-      details: 'Second Class Honors - Upper Division'
+      details: 'Distinction'
     },
     {
       icon: <FaSchool />,
-      period: '2017 - 2002',
+      period: '2017 - 2021',
       institution: 'Motiret Secondary School',
       degree: 'Kenya Certificate of Secondary Education (KCSE)',
-      details: 'Grade: C'
+      details: 'Grade: C (plain)'
     },
     {
       icon: <FaBook />,
