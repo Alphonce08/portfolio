@@ -16,7 +16,7 @@ const Contact = () => {
             rel="noopener noreferrer"
             style={{ color: '#4a90e2', textDecoration: 'none' }}
           >
-            Alphonce Kipkorir Rotich
+            Alphonce Rotich
           </a>
         </div>
         

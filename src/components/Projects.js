@@ -2,70 +2,61 @@ import React from 'react';
 
 const Projects = () => {
   const projects = [
-    {
-      name: 'Cloudpay, Pesabook, Gigpay & Happyfans',
-      description: 'Developed Frontend, Backend, RESTful APIs, Documentations and integrated third party payment gateways.',
-      technologies: ['PHP/Laravel', 'REST APIs', 'Payment Gateways', 'GCP','Digital Ocean']
-    },
-    {
-      name: 'Workpay HR System',
-      description: 'RESTful APIs Development, Documentation, Code Review, DB and Server Maintenance',
-      technologies: ['Node.js', 'React', 'AWS', 'MySQL']
-    },
-    {
-      name: 'Bluewave Insurance System',
-      description: 'Led development of insurance policy systems with complex backend architectures',
-      technologies: ['PHP', 'MySQL', 'Microservices', 'API Integration']
-    },
-    {
-      name: 'KMTC Admission Application & Placement System',
-      description: 'Fullstack development of admission and placement system',
-      technologies: ['Fullstack', 'Database Design', 'System Architecture']
-    },
-    {
-      name: 'TozzaPlus HRM System',
-      description: 'Designed and developed core payroll and attendance modules',
-      technologies: ['PHP/CodeIgniter', 'Payroll System', 'Leave Management']
-    },
-    {
-      name: 'UreadyAfrica - Mentorship System',
-      description: 'Development of mentorship platform',
-      technologies: ['Web Application', 'Mentorship Platform', 'User Management']
-    }
+   
+    // {
+    //   name: 'Bluewave Insurance System',
+    //   description: 'Led development of insurance policy systems with complex backend architectures',
+    //   technologies: ['PHP', 'MySQL', 'Microservices', 'API Integration']
+    // },
+    // {
+    //   name: 'KMTC Admission Application & Placement System',
+    //   description: 'Fullstack development of admission and placement system',
+    //   technologies: ['Fullstack', 'Database Design', 'System Architecture']
+    // },
+    // {
+    //   name: 'TozzaPlus HRM System',
+    //   description: 'Designed and developed core payroll and attendance modules',
+    //   technologies: ['PHP/CodeIgniter', 'Payroll System', 'Leave Management']
+    // },
+    // {
+    //   name: 'UreadyAfrica - Mentorship System',
+    //   description: 'Development of mentorship platform',
+    //   technologies: ['Web Application', 'Mentorship Platform', 'User Management']
+    // }
     ];
     
     const personalProjects = [
         {
             name: 'Income & Expense Tracker',
-            description: 'A web application to track personal income, expenses & budget with data visualization features.',
-            technologies: ['Laravel', 'React', 'Node.js', 'Chart.js', 'MySQL'],
+            description: 'An android application to track personal income, expenses & budget with data visualization features.',
+            technologies: ['Kotlin',],
             link:'#'
         },
         {
-            name: 'Paid Content Distribution Platform',
-            description: 'A full-featured content platform with user authentication, content management for creators where each viewer pays to access the content link',
-            technologies: ['PHP Laravel', 'REST APIs', 'PostgreSQL', 'Bootstrap', 'Mpesa Integration'],
+            name: 'Fashion project',
+            description: 'An online platform used in marketing industry to sell cloth, electronic and jewellery',
+            technologies: ['Python Django', 'REST APIs', 'PostgreSQL', 'Bootstrap',],
             link:'#'
-        },
-        {
-            name: 'Bulk SMS & WhatsApp Business API Integration Service',
-            description: 'A service to integrate WhatsApp Business API for sending notifications, alerts, and marketing messages to customers.',
-            technologies: ['Node.js', 'Express', 'MongoDB', 'WhatsApp Business API'],
-            link:'#'
-        },
-        {
-            name:'Event Ticketing Platform',
-            description:'A web application for event organizers to create and manage events, sell tickets online, and track attendance.',
-            technologies:['Laravel', 'React', 'Stripe API','Daraja API', 'PostgreSQL'],
-            link:'#'
-        },
+        // },
+        // {
+        //     name: 'Bulk SMS & WhatsApp Business API Integration Service',
+        //     description: 'A service to integrate WhatsApp Business API for sending notifications, alerts, and marketing messages to customers.',
+        //     technologies: ['Node.js', 'Express', 'MongoDB', 'WhatsApp Business API'],
+        //     link:'#'
+        // },
+        // {
+        //     name:'Event Ticketing Platform',
+        //     description:'A web application for event organizers to create and manage events, sell tickets online, and track attendance.',
+        //     technologies:['Laravel', 'React', 'Stripe API','Daraja API', 'PostgreSQL'],
+        //     link:'#'
+        // },
 
-        {
-            name:'Procurement Tracking System',
-            description:'A system to manage and track procurement requests, approvals, and vendor management for organizations.',
-            technologies:['Laravel', 'RESTsul Api', 'MySQL', 'Bootstrap'],
-            link:'#'
-        }
+        // {
+        //     name:'Procurement Tracking System',
+        //     description:'A system to manage and track procurement requests, approvals, and vendor management for organizations.',
+        //     technologies:['Laravel', 'RESTsul Api', 'MySQL', 'Bootstrap'],
+        //     link:'#'
+         }
     ];
 
   return (

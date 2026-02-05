@@ -5,24 +5,24 @@ const Education = () => {
   const education = [
     {
       icon: <FaGraduationCap />,
-      period: 'Sept 2011 - May 2015',
-      institution: 'Dedan Kimathi University of Science and Technology',
-      degree: 'Bachelor of Science in Information Technology',
+      period: 'Jan 2023 - Dec 2025',
+      institution: 'eMobilis Technology Training Institude ',
+      degree: 'Diploma in Information Technology',
       details: 'Second Class Honors - Upper Division'
     },
     {
       icon: <FaSchool />,
-      period: '2007 - 2010',
-      institution: 'Kabungut Boys High School',
+      period: '2017 - 2002',
+      institution: 'Motiret Secondary School',
       degree: 'Kenya Certificate of Secondary Education (KCSE)',
-      details: 'Grade: B+'
+      details: 'Grade: C'
     },
     {
       icon: <FaBook />,
-      period: '1998 - 2006',
-      institution: 'Kapkelei Primary School',
+      period: '2007 - 2016',
+      institution: 'Chesegem Primary School',
       degree: 'Kenya Certificate of Primary Education (KCPE)',
-      details: 'Score: 354 out of 500'
+      details: 'Score: 291 out of 500'
     }
   ];
 
