@@ -2,4 +2,4 @@
 
 ## Projects list coming soon 
 
-- Here is the link : [Kipngeno Kering Portfolio](https://portfolio-725w.onrender.com)
+- Here is the link : [Alphonce Rotich Portfolio](https://alphonce08.github.io/portfolio/)
