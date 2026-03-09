@@ -1,4 +1,4 @@
-# Kipngeno Kering
+# Alphonce Rotich
 
 ## Projects list coming soon 
 
