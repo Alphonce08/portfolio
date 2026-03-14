@@ -20,7 +20,7 @@ function App() {
         <Contact />
       </main>
       <footer className="footer">
-        <p>&copy; {new Date().getFullYear()} Kipngeno Kering. All rights reserved.</p>
+        <p>&copy; {new Date().getFullYear()} Alphonce Rotich. All rights reserved.</p>
       </footer>
     </div>
   );
