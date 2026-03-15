@@ -20,7 +20,7 @@ const Skills = () => {
     },
     {
       title: 'DevOps & Cloud',
-      skills: ['Docker', 'Kubernetes', 'AWS', 'GCP', 'Digital Ocean']
+      skills: ['Render', 'Vercel', 'Docker', 'Kubernetes', 'AWS', 'GCP', 'Digital Ocean']
     },
     
    
