@@ -1,38 +1,29 @@
 import React from 'react';
 
 const Experience = () => {
-    const experiences = [
-   {
+  const experiences = [
+    {
       period: 'Oct 2022 - March 2023',
-      title: 'Anotation ',
+      title: 'Annotation',
       company: 'Remotask',
-            responsibilities: [
-              'Task Execution & Performance',
-              'Training and Onboarding Responsibilities',
-              'Task Execution & Performance',
-              'Legal & Professional Obligations'
-              
+      responsibilities: [
+        'Task Execution & Performance',
+        'Training and Onboarding Responsibilities',
+        'Quality Assurance',
+        'Legal & Professional Obligations'
       ]
-    
     },
-    
-  ];
 
-    [
-   {
+    {
       period: 'Jan 2025 - To-Date',
-      title: 'Central Bank of Kenya ',
-      company: 'SuberBroom',
-            responsibilities: [
-              'General cleaning',
-              'counting money'
-              
+      title: 'Cleaner',
+      company: 'Central Bank of Kenya',
+      responsibilities: [
+        'General cleaning',
+        'Cash handling support'
       ]
-    
-    },
-    
+    }
   ];
-    
 
   return (
     <section className="section experience">
