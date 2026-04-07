@@ -55,7 +55,6 @@ const Projects = () => {
           <div key={index} className="project-card">
             <div className="project-header">
               <h3>{project.name} {project.status &&   <<em> ({project.status})</em>}
-  </em>
 
             </div>
             <div className="project-body">
