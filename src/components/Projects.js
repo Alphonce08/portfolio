@@ -21,9 +21,10 @@ const Projects = () => {
       
          },
               {
-            name: 'Occurence Book',
+            name: 'Occurrence Book',
             description: 'maintain a complete, chronological, and permanent record of all significant events, activities, and incidents that take place at a location or during a specific shift.',
             technologies: ['Kotlin',],
+            status: 'On Progress',
             link:'#'
         }
     ];
@@ -49,6 +50,9 @@ const Projects = () => {
         ))}
         </div>
         <h2 className="section-title">Personal Projects</h2>
+          <h3>
+  {project.name} <em>({project.status})</em>
+</h3>
       <div className="projects-grid">
         {personalProjects.map((project, index) => (
           <div key={index} className="project-card">
