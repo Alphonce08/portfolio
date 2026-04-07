@@ -54,8 +54,7 @@ const Projects = () => {
         {personalProjects.map((project, index) => (
           <div key={index} className="project-card">
             <div className="project-header">
-              <h3>{project.name} {project.status &&   <em style={{ color: 'orange', marginLeft: '8px' }}>
-    ({project.status})
+              <h3>{project.name} {project.status &&   <<em> ({project.status})</em>}
   </em>
 
             </div>
