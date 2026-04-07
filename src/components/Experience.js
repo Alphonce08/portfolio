@@ -2,23 +2,7 @@ import React from 'react';
 
 const Experience = () => {
   const experiences = [
-
-     {
-      period: 'Jan 2025 - To-Date',
-      title: 'Cleaner',
-      company: 'Central Bank of Kenya',
-      responsibilities: [
-        'General cleaning',
-        'Cash handling support',
-        'Confidentiality and Integrity',
-        'Adherence to Procedures',
-        'Competence',
-        'Team Collaboration'
-      ]
-
-              ]
-    },
-    {
+   {
       period: 'Oct 2022 - March 2023',
       title: 'Annotation',
       company: 'Remotask',
@@ -27,6 +11,17 @@ const Experience = () => {
         'Training and Onboarding Responsibilities',
         'Quality Assurance',
         'Legal & Professional Obligations'
+      ]
+    },
+
+    {
+      period: 'Jan 2025 - To-Date',
+      title: 'Cleaner',
+      company: 'Central Bank of Kenya',
+      responsibilities: [
+        'General cleaning',
+        'Cash handling support'
+      ]
     }
   ];
 
