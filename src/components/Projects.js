@@ -64,7 +64,7 @@ const Projects = () => {
 
           
             </div>
-            <div className="project-body">
+            <div className="project-body"
               <p>{project.description}</p>
               <div className="project-tech">
                 {project.technologies.map((tech, techIndex) => (
