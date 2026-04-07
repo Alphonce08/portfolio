@@ -11,19 +11,6 @@ const Experience = () => {
               'Training and Onboarding Responsibilities',
               'Task Execution & Performance',
               'Legal & Professional Obligations'
-      ]
-    
-    },
-    
-  ];
-     [
-   {
-      period: 'Oct 2022 - March 2023',
-      title: 'Anotation ',
-      company: 'Remotask',
-            responsibilities: [
-              'Task Execution & Performance',
-              'Training and Onboarding Responsibilities',
               'Task Execution & Performance',
               'Legal & Professional Obligations'
       ]
@@ -31,6 +18,7 @@ const Experience = () => {
     },
     
   ];
+    
 
   return (
     <section className="section experience">
