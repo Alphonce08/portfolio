@@ -4,7 +4,7 @@ const Experience = () => {
   const experiences = [
    {
       period: 'Jan 2025 - To-Date',
-      title: 'Cleaner',
+      title: 'Casual Worker',
       company: 'Central Bank of Kenya',
       responsibilities: [
         'General cleaning',
