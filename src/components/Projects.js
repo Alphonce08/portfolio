@@ -19,7 +19,13 @@ const Projects = () => {
             technologies: ['Python Django', 'REST APIs', 'PostgreSQL', 'Bootstrap',],
             link:'#'
       
-         }
+         },
+              {
+            name: 'Occurence Book',
+            description: 'maintain a complete, chronological, and permanent record of all significant events, activities, and incidents that take place at a location or during a specific shift.',
+            technologies: ['Kotlin',],
+            link:'#'
+        }
     ];
 
   return (
