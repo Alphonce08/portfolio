@@ -24,7 +24,7 @@ const Projects = () => {
             name: 'Occurrence Book',
             description: 'maintain a complete, chronological, and permanent record of all significant events, activities, and incidents that take place at a location or during a specific shift.',
             technologies: ['Kotlin',],
-            status: 'On Progress',
+            status: 'In Progress',
             link:'#'
         }
     ];
@@ -57,8 +57,11 @@ const Projects = () => {
           
         <h3>
           {project.name}
-          {project.status && <em> ({project.status})</em>}
+          {project.status && <em style={{ color: 'orange', marginLeft: '8px' }}>> ({project.status})</em>}
         </h3>
+
+  
+
           
             </div>
             <div className="project-body">
