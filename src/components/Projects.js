@@ -50,9 +50,6 @@ const Projects = () => {
         ))}
         </div>
         <h2 className="section-title">Personal Projects</h2>
-          <h3>
-  {project.name} <em>({project.status})</em>
-</h3>
       <div className="projects-grid">
         {personalProjects.map((project, index) => (
           <div key={index} className="project-card">
