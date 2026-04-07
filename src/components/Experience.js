@@ -10,9 +10,23 @@ const Experience = () => {
               'Task Execution & Performance',
               'Training and Onboarding Responsibilities',
               'Task Execution & Performance',
-              'Legal & Professional Obligations',
-              'go by foot',
-                '7393938938'
+              'Legal & Professional Obligations'
+              
+      ]
+    
+    },
+    
+  ];
+
+    [
+   {
+      period: 'Jan 2025 - To-Date',
+      title: 'Central Bank of Kenya ',
+      company: 'SuberBroom',
+            responsibilities: [
+              'General cleaning',
+              'counting money'
+              
       ]
     
     },
