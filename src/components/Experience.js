@@ -20,7 +20,11 @@ const Experience = () => {
       company: 'Central Bank of Kenya',
       responsibilities: [
         'General cleaning',
-        'Cash handling support'
+        'Cash handling support',
+        'Team Collaboration',
+        'Operational Support',
+        'Confidentiality and Integrity',
+        'Adherence to Procedures'
       ]
     }
   ];
