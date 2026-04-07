@@ -10,9 +10,9 @@ const Experience = () => {
               'Task Execution & Performance',
               'Training and Onboarding Responsibilities',
               'Task Execution & Performance',
-              'Legal & Professional Obligations'
-              'Task Execution & Performance',
-              'Legal & Professional Obligations'
+              'Legal & Professional Obligations',
+              'go by foot',
+                '7393938938'
       ]
     
     },
