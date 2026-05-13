@@ -14,6 +14,7 @@ const Experience = () => {
         ' Scanning cheques and managing clearing documents',
         'Team Collaboration',
         'Operational Support',
+        'Filing & Organization',
         'Confidentiality and Integrity',
         'Adherence to Procedures'
       ]
