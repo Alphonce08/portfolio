@@ -11,7 +11,7 @@ const Projects = () => {
             //name: 'Income & Expense Tracker',
            // description: 'An android application to track personal income, expenses & budget with data visualization features.',
            // technologies: ['Kotlin',],
-           // link:'#'
+            link:'#'
         },
         {
             name: 'Fashion project',
