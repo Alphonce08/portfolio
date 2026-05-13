@@ -9,9 +9,9 @@ const Projects = () => {
     const personalProjects = [
         {
             //name: 'Income & Expense Tracker',
-            description: 'An android application to track personal income, expenses & budget with data visualization features.',
-            technologies: ['Kotlin',],
-            link:'#'
+           // description: 'An android application to track personal income, expenses & budget with data visualization features.',
+           // technologies: ['Kotlin',],
+           // link:'#'
         },
         {
             name: 'Fashion project',
