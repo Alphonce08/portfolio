@@ -9,6 +9,7 @@ const Experience = () => {
       responsibilities: [
         'General cleaning',
         'Cash handling support',
+        'Handle confidential documents',
         'Team Collaboration',
         'Operational Support',
         'Confidentiality and Integrity',
